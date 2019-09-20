@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [记录一下搭建solo博客遇到的坑](http://pinmua.cn/articles/2019/09/19/1568874111832.html)
 * [第一篇文章](http://pinmua.cn/articles/2019/09/19/1568871904830.html)
 
 
